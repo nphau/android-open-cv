@@ -1,1 +1,1 @@
-# Android-OpenCV
+# FingerReader-BadFraming
